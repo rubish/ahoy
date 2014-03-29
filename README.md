@@ -1,3 +1,6 @@
+Notice: This is my own changes on top of ahoy to make it work with mongoid for [almaconnect](http://www.almaconnect.com/). I am also planning to use logstash + elasticsearch + kibana for handling detailed logging and instrumentation. Logstash already has support for geoip, so I would like to make ahoy more modular. It should be able to turn modules on/off.
+
+
 # Ahoy
 
 :fire: Simple, powerful visit tracking for Rails
